@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\fabri\Desktop\Injector\VAC-LoadLibrary-Injector-Bypass\VAC-LoadLibrary-Injector-Bypass\main.cpp(14,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\fabri\Desktop\Injector\VAC-LoadLibrary-Injector-Bypass\VAC-LoadLibrary-Injector-Bypass\functions.h(55): warning C4715: 'Functions::GetModuleBaseAddress': not all control paths return a value
+  VAC-LoadLibrary-Injector-Bypass.vcxproj -> C:\Users\fabri\Desktop\Injector\VAC-LoadLibrary-Injector-Bypass\Debug\VAC-LoadLibrary-Injector-Bypass.exe
